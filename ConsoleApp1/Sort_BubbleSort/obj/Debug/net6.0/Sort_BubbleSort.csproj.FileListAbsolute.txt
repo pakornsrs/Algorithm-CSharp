@@ -1,0 +1,15 @@
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\bin\Debug\net6.0\Sort_BubbleSort.exe
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\bin\Debug\net6.0\Sort_BubbleSort.deps.json
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\bin\Debug\net6.0\Sort_BubbleSort.runtimeconfig.json
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\bin\Debug\net6.0\Sort_BubbleSort.dll
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\bin\Debug\net6.0\Sort_BubbleSort.pdb
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\Sort_BubbleSort.csproj.AssemblyReference.cache
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\Sort_BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\Sort_BubbleSort.AssemblyInfoInputs.cache
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\Sort_BubbleSort.AssemblyInfo.cs
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\Sort_BubbleSort.csproj.CoreCompileInputs.cache
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\Sort_BubbleSort.dll
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\refint\Sort_BubbleSort.dll
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\Sort_BubbleSort.pdb
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\Sort_BubbleSort.genruntimeconfig.cache
+D:\My Projects\Algorithm-CSharp\ConsoleApp1\Sort_BubbleSort\obj\Debug\net6.0\ref\Sort_BubbleSort.dll
