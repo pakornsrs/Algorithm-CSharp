@@ -1,0 +1,15 @@
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\bin\Debug\net6.0\Sort_SelectionSort.exe
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\bin\Debug\net6.0\Sort_SelectionSort.deps.json
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\bin\Debug\net6.0\Sort_SelectionSort.runtimeconfig.json
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\bin\Debug\net6.0\Sort_SelectionSort.dll
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\bin\Debug\net6.0\Sort_SelectionSort.pdb
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\Sort_SelectionSort.csproj.AssemblyReference.cache
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\Sort_SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\Sort_SelectionSort.AssemblyInfoInputs.cache
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\Sort_SelectionSort.AssemblyInfo.cs
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\Sort_SelectionSort.csproj.CoreCompileInputs.cache
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\Sort_SelectionSort.dll
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\refint\Sort_SelectionSort.dll
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\Sort_SelectionSort.pdb
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\Sort_SelectionSort.genruntimeconfig.cache
+D:\My Projects\Algorithm-CSharp\Sort_SelectionSort\obj\Debug\net6.0\ref\Sort_SelectionSort.dll
