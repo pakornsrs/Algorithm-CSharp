@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Projects\\Algorithm-CSharp\\Sort_SelectionSort\\Sort_SelectionSort.csproj",
-      "projectName": "Sort_SelectionSort",
-      "projectPath": "D:\\My Projects\\Algorithm-CSharp\\Sort_SelectionSort\\Sort_SelectionSort.csproj",
+      "projectUniqueName": "D:\\My Projects\\Algorithm-CSharp\\Sort_SelectionSort\\Basic_Sort_SelectionSort.csproj",
+      "projectName": "Basic_Sort_SelectionSort",
+      "projectPath": "D:\\My Projects\\Algorithm-CSharp\\Sort_SelectionSort\\Basic_Sort_SelectionSort.csproj",
       "packagesPath": "C:\\Users\\Pakorn Srisanguan\\.nuget\\packages\\",
       "outputPath": "D:\\My Projects\\Algorithm-CSharp\\Sort_SelectionSort\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QzyvMqnjWOsf4w1Dyc64+5yTS9TQ+ZQFg9oTzJsCMg2milqFf/DKqSYHX1qGTguKpq1julEqjvm3S6FUGBqY+A==",
+  "dgSpecHash": "UL3LuR4Wza1mvwjCGeUjIeqUcQOwyNi7ef3TWHQnxrwNcVflWot2uA/UzJpafejA+lEMUz3nEcP2ErUYfSkQbw==",
   "success": true,
-  "projectFilePath": "D:\\My Projects\\Algorithm-CSharp\\Sort_SelectionSort\\Sort_SelectionSort.csproj",
+  "projectFilePath": "D:\\My Projects\\Algorithm-CSharp\\Sort_SelectionSort\\Basic_Sort_SelectionSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

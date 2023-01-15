@@ -1,0 +1,15 @@
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\bin\Debug\net6.0\Intermediate_Sort_MergeSort.exe
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\bin\Debug\net6.0\Intermediate_Sort_MergeSort.deps.json
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\bin\Debug\net6.0\Intermediate_Sort_MergeSort.runtimeconfig.json
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\bin\Debug\net6.0\Intermediate_Sort_MergeSort.dll
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\bin\Debug\net6.0\Intermediate_Sort_MergeSort.pdb
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\Intermediate_Sort_MergeSort.csproj.AssemblyReference.cache
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\Intermediate_Sort_MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\Intermediate_Sort_MergeSort.AssemblyInfoInputs.cache
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\Intermediate_Sort_MergeSort.AssemblyInfo.cs
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\Intermediate_Sort_MergeSort.csproj.CoreCompileInputs.cache
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\Intermediate_Sort_MergeSort.dll
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\refint\Intermediate_Sort_MergeSort.dll
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\Intermediate_Sort_MergeSort.pdb
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\Intermediate_Sort_MergeSort.genruntimeconfig.cache
+D:\My Projects\Algorithm-CSharp\Sort_MergeSort\obj\Debug\net6.0\ref\Intermediate_Sort_MergeSort.dll

@@ -2,7 +2,7 @@
 
 namespace Sort_SelectionSort
 {
-    internal class Program
+    internal class SelectionSort
     {
         static void Main(string[] args)
         {

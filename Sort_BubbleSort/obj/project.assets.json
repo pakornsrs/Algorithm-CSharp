@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Projects\\Algorithm-CSharp\\Sort_BubbleSort\\Sort_BubbleSort.csproj",
-      "projectName": "Sort_BubbleSort",
-      "projectPath": "D:\\My Projects\\Algorithm-CSharp\\Sort_BubbleSort\\Sort_BubbleSort.csproj",
+      "projectUniqueName": "D:\\My Projects\\Algorithm-CSharp\\Sort_BubbleSort\\Basic_Sort_BubbleSort.csproj",
+      "projectName": "Basic_Sort_BubbleSort",
+      "projectPath": "D:\\My Projects\\Algorithm-CSharp\\Sort_BubbleSort\\Basic_Sort_BubbleSort.csproj",
       "packagesPath": "C:\\Users\\Pakorn Srisanguan\\.nuget\\packages\\",
       "outputPath": "D:\\My Projects\\Algorithm-CSharp\\Sort_BubbleSort\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,6 +1,6 @@
 ﻿namespace Sort_BubbleSort
 {
-    public class Program
+    public class BubbleSort
     {
         static void Main(string[] args)
         {

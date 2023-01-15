@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r0z3YSIs/dZXEbEwNjB5zTSc2u0ArqmMjUrKWEudiFtC+aTh+jG0qXyrOLT0D6alhsETfsZx4mXaTIYDnAxW4g==",
+  "dgSpecHash": "/LoFFys7RVfHRqE5sff0JCSZOjR1u8IgH35qlAZHWjRMDZGhMSXX2y6ElLas5/Q7RRCmdznWA97Pk3f3i1KsWQ==",
   "success": true,
-  "projectFilePath": "D:\\My Projects\\Algorithm-CSharp\\Sort_BubbleSort\\Sort_BubbleSort.csproj",
+  "projectFilePath": "D:\\My Projects\\Algorithm-CSharp\\Sort_BubbleSort\\Basic_Sort_BubbleSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

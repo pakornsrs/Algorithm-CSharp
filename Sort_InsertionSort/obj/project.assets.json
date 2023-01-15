@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Projects\\Algorithm-CSharp\\Sort_InsertionSort\\Sort_InsertionSort.csproj",
-      "projectName": "Sort_InsertionSort",
-      "projectPath": "D:\\My Projects\\Algorithm-CSharp\\Sort_InsertionSort\\Sort_InsertionSort.csproj",
+      "projectUniqueName": "D:\\My Projects\\Algorithm-CSharp\\Sort_InsertionSort\\Basic_Sort_InsertionSort.csproj",
+      "projectName": "Basic_Sort_InsertionSort",
+      "projectPath": "D:\\My Projects\\Algorithm-CSharp\\Sort_InsertionSort\\Basic_Sort_InsertionSort.csproj",
       "packagesPath": "C:\\Users\\Pakorn Srisanguan\\.nuget\\packages\\",
       "outputPath": "D:\\My Projects\\Algorithm-CSharp\\Sort_InsertionSort\\obj\\",
       "projectStyle": "PackageReference",
