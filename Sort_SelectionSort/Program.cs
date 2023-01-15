@@ -1,20 +1,19 @@
-﻿namespace Sort_SelectionSort
+﻿using System.Globalization;
+
+namespace Sort_SelectionSort
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[] nums = { 5, -2, 12, 9, 20, 17, 2, -8, 11, 7 };
+            int[] nums = { 5, -3, 4, 1, 2 };
+
+            Console.WriteLine(ConvertArrToString(nums));
 
             // display result
-            string arrString = "";
             var sorted = SelectionSortForNum(nums);
-            foreach (var item in sorted)
-            {
-                arrString = arrString + item.ToString() + ", ";
-            }
 
-            Console.WriteLine(arrString);
+            Console.WriteLine(ConvertArrToString(sorted));
         }
 
         private static int[] SelectionSortForNum(int[] nums)
@@ -37,9 +36,23 @@
                         nums[i] = nums[minIndex];
                         nums[minIndex] = temp;
                     }
+
+                    Console.WriteLine(ConvertArrToString(nums));
                 }
             }
             return nums;
+        }
+
+        private static string ConvertArrToString(int[] input)
+        {
+            string arrString = "";
+
+            foreach (var item in input)
+            {
+                arrString = arrString + item.ToString() + ", ";
+            }
+
+            return arrString;
         }
     }
 }

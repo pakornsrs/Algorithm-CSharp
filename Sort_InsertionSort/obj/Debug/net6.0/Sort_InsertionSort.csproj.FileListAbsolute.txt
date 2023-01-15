@@ -1,0 +1,15 @@
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\bin\Debug\net6.0\Sort_InsertionSort.exe
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\bin\Debug\net6.0\Sort_InsertionSort.deps.json
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\bin\Debug\net6.0\Sort_InsertionSort.runtimeconfig.json
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\bin\Debug\net6.0\Sort_InsertionSort.dll
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\bin\Debug\net6.0\Sort_InsertionSort.pdb
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\Sort_InsertionSort.csproj.AssemblyReference.cache
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\Sort_InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\Sort_InsertionSort.AssemblyInfoInputs.cache
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\Sort_InsertionSort.AssemblyInfo.cs
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\Sort_InsertionSort.csproj.CoreCompileInputs.cache
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\Sort_InsertionSort.dll
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\refint\Sort_InsertionSort.dll
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\Sort_InsertionSort.pdb
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\Sort_InsertionSort.genruntimeconfig.cache
+D:\My Projects\Algorithm-CSharp\Sort_InsertionSort\obj\Debug\net6.0\ref\Sort_InsertionSort.dll
