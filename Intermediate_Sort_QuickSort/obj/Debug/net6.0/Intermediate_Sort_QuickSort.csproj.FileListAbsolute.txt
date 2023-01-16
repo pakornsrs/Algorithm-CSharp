@@ -1,0 +1,15 @@
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\bin\Debug\net6.0\Intermediate_Sort_QuickSort.exe
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\bin\Debug\net6.0\Intermediate_Sort_QuickSort.deps.json
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\bin\Debug\net6.0\Intermediate_Sort_QuickSort.runtimeconfig.json
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\bin\Debug\net6.0\Intermediate_Sort_QuickSort.dll
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\bin\Debug\net6.0\Intermediate_Sort_QuickSort.pdb
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\Intermediate_Sort_QuickSort.csproj.AssemblyReference.cache
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\Intermediate_Sort_QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\Intermediate_Sort_QuickSort.AssemblyInfoInputs.cache
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\Intermediate_Sort_QuickSort.AssemblyInfo.cs
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\Intermediate_Sort_QuickSort.csproj.CoreCompileInputs.cache
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\Intermediate_Sort_QuickSort.dll
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\refint\Intermediate_Sort_QuickSort.dll
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\Intermediate_Sort_QuickSort.pdb
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\Intermediate_Sort_QuickSort.genruntimeconfig.cache
+D:\My Projects\Algorithm-CSharp\Intermediate_Sort_QuickSort\obj\Debug\net6.0\ref\Intermediate_Sort_QuickSort.dll
