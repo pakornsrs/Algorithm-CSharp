@@ -22,7 +22,6 @@
                 // Right
                 nums = QuickSortForNum(nums, pivotIndex + 1, nums.Length);
             }
-
             return nums;
         }
 
