@@ -29,8 +29,7 @@ namespace Sort_MergeSort
         {
             List<int> result = new List<int>();
 
-            int i = 0;
-            int j = 0;
+            int i = 0; int j = 0;
 
             while(i < numArr1.Length && j < numArr2.Length)
             {
@@ -44,13 +43,11 @@ namespace Sort_MergeSort
                     j++;
                 }
             }
-
             while(i < numArr1.Length)
             {
                 result.Add(numArr1[i]);
                 i++;
             }
-
             while (j < numArr2.Length)
             {
                 result.Add(numArr2[j]);
